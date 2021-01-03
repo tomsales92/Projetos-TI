@@ -1,0 +1,39 @@
+header{
+	margin-bottom: 64px;
+}
+
+#home{
+	background: #000;
+	color: #fff;
+}
+
+.navbar{
+	background: #000;
+	border-bottom: 1px solid #424242;
+	margin-bottom: 30px;
+}
+
+h1{
+	color: #fff;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #151515;
+}
+
+.teste{
+	margin-right: 10px;
+}
+
+footer {
+	background: rgba(0, 0, 0, 0.9);
+	color: #c5c5c5;
+	text-align: center;
+	padding: 20px;
+	
+}
+
+#nav-principal a{
+	color: #919293;
+}
